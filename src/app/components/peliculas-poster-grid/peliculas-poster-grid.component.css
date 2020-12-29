@@ -1,0 +1,11 @@
+h3{
+  color: white;
+  font-size: 1em;
+}
+.poster{
+  border-image: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin: 5px;
+  height: 121px;
+  background-size: auto;
+}
